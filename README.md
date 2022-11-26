@@ -1,2 +1,2 @@
 # tailspin
-Script to setup Tailsclae and Caddy in Oracle VPS
+Script to setup Tailscale and Caddy in Oracle VPS and run reverse proxy to localhost.
